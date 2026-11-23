@@ -1,0 +1,12 @@
+{
+  "name": "ccjson",
+  "version": "1.0.0",
+  "description": "A JSON parser and validator. Solution to the Build Your Own JSON Parser coding challenge.",
+  "main": "json-parser.js",
+  "bin": {
+    "ccjson": "ccjson.js"
+  },
+  "scripts": {
+    "test": "node tests/run-tests.js"
+  }
+}
